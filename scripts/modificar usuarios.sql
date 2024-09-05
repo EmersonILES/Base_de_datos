@@ -1,0 +1,2 @@
+ALTER TABLE usuarios
+MODIFY nombre VARCHAR(150);
